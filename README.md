@@ -9,9 +9,9 @@ In recognising the contemporary significance of understanding the multifaceted n
 ### Key Features of This Study
 - Timeframe: Speeches were extracted from January 2015 to July 2023 justified by two notable political events: the 2015 Refugee Crisis in Europe and the enactment of the Illegal Migration Act on July 20th 2023.
 - With this extensive collection of texts, computational tools are applied to make inferences about the three dynamics of MPs’ attitudes:
-1. Partisan dynamics: The variation of rhetorical characteristics and positions both across and within political parties
-2. Temporal dynamics: Trends in the prominence of expressed sentiments of “hostility” and “hospitality”
-3. Categorical dynamics: The variations in MPs’ linguistic attitudes towards different “types” of refugees
+  1. Partisan dynamics: The variation of rhetorical characteristics and positions both across and within political parties
+  2. Temporal dynamics: Trends in the prominence of expressed sentiments of “hostility” and “hospitality”
+  3. Categorical dynamics: The variations in MPs’ linguistic attitudes towards different “types” of refugees
 
 The study’s results offer fresh insights into the intricate dynamics of parliamentary dialogue on refugees, including the intra-party variations in policy positions, erratic events-driven fluctuations in expressions of “hostility” and “hospitality”, and substantial disparities in linguistic attitudes towards government-sanctioned refugees compared to asylum seekers crossing the English Channel.
 
