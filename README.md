@@ -18,6 +18,6 @@ The study’s results offer fresh insights into the intricate dynamics of parlia
 ### Repository Structure
 - `Ami_Undergraduate_Dissertation.pdf`: Full PDF of my undergraduate dissertation
 - `Full Python Script.ipynb`: Jupyter Notebook containing the full Python script for my machine learning models (scikit-learn)
-- `dissertation_analysis.Rmd`: The R Markdown file containing text analysis using Quanteda
+- `Full R Markdown.Rmd`: The R Markdown file containing text analysis using Quanteda
 
 
